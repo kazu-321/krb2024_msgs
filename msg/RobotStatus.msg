@@ -1,0 +1,12 @@
+float32[4] duty_rotation
+float32[4] duty_drive
+float32[4] duty_pid
+float32[4] target
+float32[4] rotation_init
+float32[4] rotation
+bool emg
+bool reset_need
+float32[3] gain0
+float32[3] gain1
+float32[3] gain2
+float32[3] gain3
